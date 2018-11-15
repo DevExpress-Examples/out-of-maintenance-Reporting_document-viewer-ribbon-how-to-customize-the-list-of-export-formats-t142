@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Index.cshtml](./CS/DXDocumentViewerExternalRibbon/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # Document Viewer - Ribbon - How to customize the list of export formats
 
 
