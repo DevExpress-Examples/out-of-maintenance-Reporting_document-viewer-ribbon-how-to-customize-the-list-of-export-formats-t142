@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="DXDocumentViewerExternalRibbon.MvcApplication" Language="vb" %>
+<%@ Application Codebehind="Global.asax.cs" Inherits="DXDocumentViewerExternalRibbon.MvcApplication" Language="C#" %>
